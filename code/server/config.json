@@ -1,0 +1,15 @@
+{
+    "ConfigHost": "GlobalHost",
+    "GlobalHost": {
+      "MongoUri": "mongodb://192.168.0.113:27017/ChatServer",
+      "KeyEncryptionPassword":"F41BB5298D83361D5E8F81C304F769EBCA42048A00F1C6D36576C05EA363742E",
+      "LogFilePath":"../server/logs.log"
+    },
+    "LocalHost": {
+        "MongoUri": "mongodb://192.168.0.113:27017/ChatServer",
+        "KeyEncryptionPassword":"F41BB5298D83361D5E8F81C304F769EBCA42048A00F1C6D36576C05EA363742E",
+        "LogFilePath":"../server/logs.log"
+    }
+  }
+  
+  
